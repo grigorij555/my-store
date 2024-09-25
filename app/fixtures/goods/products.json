@@ -1,0 +1,170 @@
+[
+    {
+        "model": "goods.products",
+        "pk": 1,
+        "fields": {
+            "name": "'������ ������ � ��� �����'",
+            "slug": "chajnyj-stolik-i-tri-stula",
+            "description": "'�������� �� ��� ������� � ������������ ������ ��� ��������� �������.',",
+            "image": "goods_images/strange_table.jpg",
+            "price": "150.0000",
+            "discount": "55.00",
+            "quantity": 10,
+            "category": 2
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 2,
+        "fields": {
+            "name": "'������ ������ � ��� �����'",
+            "slug": "chajnyj-stolik-i-dva-stula",
+            "description": "'����� �� ����� � ���� ������� � ����������������� �����.',",
+            "image": "goods_images/kitchen_table.jpg",
+            "price": "93.0000",
+            "discount": "5.00",
+            "quantity": 10,
+            "category": 2
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 3,
+        "fields": {
+            "name": "'����� �� ����� � ���� ������� � ����������������� �����.',",
+            "slug": "nabor-iz-stola-i-dvuh-stulev-v-minimalisticheskom-stile",
+            "description": "'������� ������������ � ������������� � ������ ����� ������������.',",
+            "image": "goods_images/double_bed.jpg",
+            "price": "670.0000",
+            "discount": "70.00",
+            "quantity": 10,
+            "category": 3
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 4,
+        "fields": {
+            "name": "'�������� ���� � ���������',",
+            "slug": "kuhonnyj-stol-s-rakovinoj",
+            "description": "'�������� ���� ��� ����� � ���������� ��������� � ��������.',",
+            "image": "goods_images/kitchen_table_2.jpg",
+            "price": "564.0000",
+            "discount": "65.00",
+            "quantity": 10,
+            "category": 2
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 5,
+        "fields": {
+            "name": "'�������� ���� � ���������',",
+            "slug": "kuhonnyj-stol-s-vstrojkoj",
+            "description": "'�������� ���� �� ���������� ������ � ���������. ����� ����� � ������ ��������.',",
+            "image": "goods_images/corner_sofa.jpg",
+            "price": "543.0000",
+            "discount": "30.00",
+            "quantity": 10,
+            "category": 2
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 6,
+        "fields": {
+            "name": "'������� ����� ��� ���������',",
+            "slug": "uglovoj-divan-dlya-gostinnoj",
+            "description": "'������� �����, �������������� � ������������ �������, ��� ��������� � ������ ������ ����� ��!',",
+            "image": "goods_images/set_of_tea_table_and_three_chairs.jpg",
+            "price": "61.0000",
+            "discount": "5.00",
+            "quantity": 10,
+            "category": 4
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 7,
+        "fields": {
+            "name": "'������������ ������',",
+            "slug": "prikrovatnyj-stolik",
+            "description": "'������������ ������ � ����� ���������� ������� (������ �� ������ � ��������).',",
+            "image": "goods_images/bedside_table.jpg",
+            "price": "55.0000",
+            "discount": "7.00",
+            "quantity": 10,
+            "category": 3
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 8,
+        "fields": {
+            "name": "'����� ������������',",
+            "slug": "divan-obyknovennyj",
+            "description": "'�����, �� �� ���� ������������, ������ ��������������� ��� ��������.'",
+            "image": "goods_images/office_chair.jpg",
+            "price": "190.0000",
+            "discount": "7.00",
+            "quantity": 10,
+            "category": 3
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 9,
+        "fields": {
+            "name": "'���� �������',",
+            "slug": "stul-ofisnyj",
+            "description": "'�������� ������, ��� �� ����� �� ��������, �� ��� ����, ��� ��� �������...',",
+            "image": "goods_images/plants_IDLCUHf.jpg",
+            "price": "30.0000",
+            "discount": "4.00",
+            "quantity": 20,
+            "category": 5
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 14,
+        "fields": {
+            "name": "�������",
+            "slug": "kartina",
+            "description": "�������",
+            "image": "goods_images/2024-09-01_1.png",
+            "price": "345.0000",
+            "discount": "5.00",
+            "quantity": 6,
+            "category": 8
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 15,
+        "fields": {
+            "name": "��������",
+            "slug": "rastenie",
+            "description": "��������",
+            "image": "",
+            "price": "12.5000",
+            "discount": "54.00",
+            "quantity": 10,
+            "category": 8
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 16,
+        "fields": {
+            "name": "�������",
+            "slug": "korobka",
+            "description": "�������",
+            "image": "goods_images/2024-09-01_7.png",
+            "price": "435.0000",
+            "discount": "55.00",
+            "quantity": 20,
+            "category": 6
+        }
+    }
+]
